@@ -1,0 +1,14 @@
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\bin\Debug\DDD.Sample.Infrastructure.Interfaces.dll.config
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\bin\Debug\DDD.Sample.Infrastructure.Interfaces.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\bin\Debug\DDD.Sample.Infrastructure.Interfaces.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\bin\Debug\DDD.Sample.Domain.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\bin\Debug\EntityFramework.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\bin\Debug\DDD.Sample.Domain.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\bin\Debug\EntityFramework.xml
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\obj\Debug\DDD.Sample.Infrastructure.Interfaces.csprojAssemblyReference.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\obj\Debug\DDD.Sample.Infrastructure.Interfaces.csproj.CoreCompileInputs.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\obj\Debug\DDD.Sample.Infrastructure.Interfaces.csproj.CopyComplete
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\obj\Debug\DDD.Sample.Infrastructure.Interfaces.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Infrastructure.Interfaces\obj\Debug\DDD.Sample.Infrastructure.Interfaces.pdb

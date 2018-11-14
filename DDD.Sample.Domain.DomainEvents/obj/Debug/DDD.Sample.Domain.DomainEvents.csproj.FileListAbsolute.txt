@@ -1,0 +1,5 @@
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.DomainEvents\bin\Debug\DDD.Sample.Domain.DomainEvents.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.DomainEvents\bin\Debug\DDD.Sample.Domain.DomainEvents.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.DomainEvents\obj\Debug\DDD.Sample.Domain.DomainEvents.csproj.CoreCompileInputs.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.DomainEvents\obj\Debug\DDD.Sample.Domain.DomainEvents.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.DomainEvents\obj\Debug\DDD.Sample.Domain.DomainEvents.pdb

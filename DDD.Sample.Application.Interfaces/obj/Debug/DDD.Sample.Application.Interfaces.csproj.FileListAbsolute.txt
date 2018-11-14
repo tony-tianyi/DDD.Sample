@@ -1,0 +1,9 @@
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Application.Interfaces\bin\Debug\DDD.Sample.Application.Interfaces.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Application.Interfaces\bin\Debug\DDD.Sample.Application.Interfaces.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Application.Interfaces\bin\Debug\DDD.Sample.Domain.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Application.Interfaces\bin\Debug\DDD.Sample.Domain.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Application.Interfaces\obj\Debug\DDD.Sample.Application.Interfaces.csprojAssemblyReference.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Application.Interfaces\obj\Debug\DDD.Sample.Application.Interfaces.csproj.CoreCompileInputs.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Application.Interfaces\obj\Debug\DDD.Sample.Application.Interfaces.csproj.CopyComplete
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Application.Interfaces\obj\Debug\DDD.Sample.Application.Interfaces.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Application.Interfaces\obj\Debug\DDD.Sample.Application.Interfaces.pdb

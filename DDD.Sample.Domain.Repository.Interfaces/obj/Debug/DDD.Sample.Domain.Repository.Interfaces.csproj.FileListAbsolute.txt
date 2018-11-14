@@ -1,0 +1,9 @@
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.Repository.Interfaces\bin\Debug\DDD.Sample.Domain.Repository.Interfaces.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.Repository.Interfaces\bin\Debug\DDD.Sample.Domain.Repository.Interfaces.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.Repository.Interfaces\bin\Debug\DDD.Sample.Domain.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.Repository.Interfaces\bin\Debug\DDD.Sample.Domain.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.Repository.Interfaces\obj\Debug\DDD.Sample.Domain.Repository.Interfaces.csprojAssemblyReference.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.Repository.Interfaces\obj\Debug\DDD.Sample.Domain.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.Repository.Interfaces\obj\Debug\DDD.Sample.Domain.Repository.Interfaces.csproj.CopyComplete
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.Repository.Interfaces\obj\Debug\DDD.Sample.Domain.Repository.Interfaces.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.Repository.Interfaces\obj\Debug\DDD.Sample.Domain.Repository.Interfaces.pdb

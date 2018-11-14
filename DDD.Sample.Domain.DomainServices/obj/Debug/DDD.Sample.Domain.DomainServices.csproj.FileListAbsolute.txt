@@ -1,0 +1,5 @@
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.DomainServices\bin\Debug\DDD.Sample.Domain.DomainServices.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.DomainServices\bin\Debug\DDD.Sample.Domain.DomainServices.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.DomainServices\obj\Debug\DDD.Sample.Domain.DomainServices.csproj.CoreCompileInputs.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.DomainServices\obj\Debug\DDD.Sample.Domain.DomainServices.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.DomainServices\obj\Debug\DDD.Sample.Domain.DomainServices.pdb

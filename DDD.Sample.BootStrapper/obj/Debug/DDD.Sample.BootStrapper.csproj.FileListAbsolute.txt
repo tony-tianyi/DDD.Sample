@@ -1,0 +1,6 @@
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.BootStrapper\bin\Debug\DDD.Sample.BootStrapper.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.BootStrapper\bin\Debug\DDD.Sample.BootStrapper.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.BootStrapper\obj\Debug\DDD.Sample.BootStrapper.csproj.CoreCompileInputs.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.BootStrapper\obj\Debug\DDD.Sample.BootStrapper.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.BootStrapper\obj\Debug\DDD.Sample.BootStrapper.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.BootStrapper\obj\Debug\DDD.Sample.BootStrapper.csprojAssemblyReference.cache

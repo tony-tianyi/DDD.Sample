@@ -1,0 +1,6 @@
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.ValueObjects\bin\Debug\DDD.Sample.Domain.ValueObjects.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.ValueObjects\bin\Debug\DDD.Sample.Domain.ValueObjects.pdb
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.ValueObjects\obj\Debug\DDD.Sample.Domain.ValueObjects.csprojAssemblyReference.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.ValueObjects\obj\Debug\DDD.Sample.Domain.ValueObjects.csproj.CoreCompileInputs.cache
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.ValueObjects\obj\Debug\DDD.Sample.Domain.ValueObjects.dll
+D:\GitHub.Code\DDD.Sample-master\DDD.Sample.Domain.ValueObjects\obj\Debug\DDD.Sample.Domain.ValueObjects.pdb
