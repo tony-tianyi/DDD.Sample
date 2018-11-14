@@ -24,7 +24,7 @@ namespace DDD.Sample.BootStrapper
 
         //public void ConfigureServices(IAppBuilder app)
         //{
-        //    GlobalConfiguration.Configuration.UseSqlServerStorage("Data Source=171.15.17.85,6633;Initial Catalog=Banu_0412;User ID=sa;Password=BnXnlkp5566");
+        //    GlobalConfiguration.Configuration.UseSqlServerStorage("Data Source=.;Initial Catalog=Hangfiredemo;User ID=sa;Password=123456");
         //    app.UseHangfireDashboard();
         //    app.UseHangfireServer();
         //}
